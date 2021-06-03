@@ -195,8 +195,6 @@ import (
 
       命令执行后输出如下信息：
 
-      ![image-20210531125741824](C:\Users\10542\AppData\Roaming\Typora\typora-user-images\image-20210531125741824.png)
-
       ```shell
       [shim] SetupChaincodeLogging -> INFO 001 Chaincode log level not provided;
       	defaulting to: INFO
@@ -231,5 +229,4 @@ import (
 
       返回查询结果：World
 
-      ![image-20210531130202054](C:\Users\10542\AppData\Roaming\Typora\typora-user-images\image-20210531130202054.png)
 
